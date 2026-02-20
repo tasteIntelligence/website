@@ -23,7 +23,7 @@ export default function HeroZH() {
           transition={{ duration: 0.6, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
           className="text-sm text-gray-500 tracking-wide"
         >
-          探索 AI 产品的方法论
+          探索AI产品的品味扩展定律
         </motion.p>
       </div>
     </section>

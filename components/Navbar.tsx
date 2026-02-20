@@ -6,13 +6,15 @@ import { useLanguage } from "@/context/LanguageContext";
 import LanguageSwitcher from "./LanguageSwitcher";
 
 const navItemsEn = [
-  { name: "Blog", href: "#blog" },
-  { name: "Join Us", href: "#join" },
+  { name: "Product", href: "/product" },
+  { name: "Blog", href: "/#blog" },
+  { name: "Join Us", href: "/joinus" },
 ];
 
 const navItemsZh = [
-  { name: "博客", href: "#blog" },
-  { name: "加入我们", href: "#join" },
+  { name: "产品", href: "/product" },
+  { name: "博客", href: "/#blog" },
+  { name: "加入我们", href: "/joinus" },
 ];
 
 export default function Navbar() {

@@ -52,7 +52,7 @@ export default function Footer() {
           <div className="flex flex-col items-center gap-2">
             <div className="relative w-32 h-32 bg-gray-50 rounded-lg overflow-hidden">
               <Image
-                src="/xhscommunity.png"
+                src="/website/xhscommunity.png"
                 alt="Join our community"
                 fill
                 className="object-cover"

@@ -96,7 +96,7 @@ export default function IntroSectionZH() {
               <div>
                 <h4 className="text-gray-900 font-medium">底层技术</h4>
                 <p className="text-sm text-gray-600 mt-1">
-                  Agentic 系统、强化学习基建、上下文学习、持续学习、自我进化
+                  Agentic 系统、强化学习基建、上下文学习、持续学习、自我进化，数据合成
                 </p>
               </div>
             </div>

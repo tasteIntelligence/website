@@ -110,7 +110,7 @@ export default function IntroSection() {
               <div>
                 <h4 className="text-gray-900 font-medium">Foundation</h4>
                 <p className="text-sm text-gray-600 mt-1">
-                  Agentic systems, RL infra, context learning, continuous learning, self-evolve,datageneration
+                  Agentic systems, RL infra, context learning, continuous learning, self-evolve,datageneration,self-evolve evaluation,environment generation
                 </p>
               </div>
             </div>
